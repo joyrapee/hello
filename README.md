@@ -16,12 +16,15 @@ This is a basic Python script that prompts the user for their name and returns a
 # 📝 Example Usage
 Enter your name: Alice
 Hello, Alice!
+
 # 📄 Code Structure
-``say_hello(name):`` Function that generates the greeting message.
-`if __name__ == "__main__":`  Ensures the script runs only when executed directly.
-```input():```  Accepts user input.
-`print():`  Displays the greeting.
+* `say_hello(name):` Function that generates the greeting message.
+* `if __name__ == "__main__":`  Ensures the script runs only when executed directly.
+* `input():`  Accepts user input.
+* `print():`  Displays the greeting.
+
 # 🔧 Dependencies
 No external libraries required—just Python!
+
 # 📜 License
 This project is open-source and available under the MIT License.
