@@ -1,5 +1,5 @@
 def say_hello(name):
-    """Function that returns a greeting message."""
+    """Function that returns a message."""
     return f"Hello, {name}!"
 
 if __name__ == "__main__":
